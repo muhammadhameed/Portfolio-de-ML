@@ -23,22 +23,14 @@ I am passionate about leveraging cutting-edge AI techniques to solve complex pro
 ## Project Overview
 
 I will add different repo links which will have the data files here:
-https://github.com/muhammadhameed/Projecct-samples
-
-this is some of the rag applcations i have developed.
-
-
-
+1) https://github.com/muhammadhameed/Projecct-samples
+  this is some of the rag applcations i have developed.
+2) https://github.com/muhammadhameed/Scrapping
+3) https://github.com/muhammadhameed/Data-Analytics-Advanced/blob/main/st.py
 
 
 
-## Usage
 
-(Explain how to use the project.)
-
-## Contributions
-
-Contributions are welcome! Please follow the guidelines outlined in the `CONTRIBUTING.md` file.
 
 ## License
 
